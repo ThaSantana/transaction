@@ -6,7 +6,7 @@
 
 ### 1- Acesse o link a abaixo:
 
-### 2- Clique no botão CODE -> Cone with HTTPS -> Copiar o link.
+### 2- Clique no botão CODE -> Clone with HTTPS -> Copiar o link.
 ### 3- Abrir o terminal -> localizar a pasta que você deseja salvar o repositório.
 ### 4- Digitar no terminal "git clone" e colar o link copiado no github e apertar o enter.
 
